@@ -16,7 +16,7 @@ Sosyolojide Çağdaş Kuramsal Gelişmeler I &amp; II
 **E-mail:** fgunes@anadolu.edu.tr  
 	
 	
-#h2 -SOSYOLOJİ KURAMININ TARİHİ I VE II#   
+##h2 -SOSYOLOJİ KURAMININ TARİHİ I VE II##   
 	
 Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.1-41.  
 Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.189-235.  
