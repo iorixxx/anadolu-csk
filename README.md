@@ -203,7 +203,7 @@ Loomba, A.(2000) Kolonyalizm Postkolonyalizm. Ayrıntı, s.9-127,273-286
 Yeğenoğlu, M. (1995) “Sömürge Sonrası Dünya’da Göçmen Kimliği”, Mürekkep, No:34,1995,s.71-80.
 
 
-##### Diğer Kaynaklar Ek Kaynaklar
+#### Diğer Kaynaklar Ek Kaynaklar
 
 S.Zizek  
 
