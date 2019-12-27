@@ -14,7 +14,7 @@
 **E-mail:** fgunes@anadolu.edu.tr  
 	
 	
-### SOSYOLOJİ KURAMININ TARİHİ I VE II   
+### <pre><code> SOSYOLOJİ KURAMININ TARİHİ I VE II </code></pre>   
 
 * Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.1-41.  
 
@@ -24,7 +24,7 @@
 
 * Swingewood, A.(2010) Sosyolojik Düşüncenin Kısa Tarihi, (Çev) Osman Akınhay , İstanbul: Agora Kitaplığı  
 
-### <pre><code> KLASİKLER: EMILIE DURKHEIM, KARL MARX, MAX WEBER, GEORG SIMMEL</code></pre>   
+### <pre><code> KLASİKLER: EMILIE DURKHEIM, KARL MARX, MAX WEBER, GEORG SIMMEL </code></pre>   
 
 * Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.43-188.  
 
@@ -33,7 +33,6 @@
 ### <pre><code> YAPISAL İŞLEVCİLİK VE NEO İŞLEVCİLİK </code></pre>  
 
 * Ritzer, G ve Jefrey Spetnisky (2012) Çağdaş Sosyoloji Kuramları ve Klasik Kökleri, (Çev) Irmak Ertuna Howison, Ankara: De Ki, s.62-79.  
-
 * Poloma,M.(1993) Genel Sistem Kuramı: Davranışsal Bilimin Birleşik Kuramına Doğru Bir Yönelim (Talcott Parsons), Çağdaş Sosyoloji Kuramları.Çev.Hayriye Erbaş, Ankara:Gündoğan Yayınları, 147-174.  
 
 * Poloma,M. (1993) Bir Kuram Olarak Yapısal İşlevcilik: Bir Dönemin Sonu? (Robert K. Merton), Çağdaş Sosyoloji Kuramları. Çev. Hayriye Erbaş, Ankara: Gündoğan Yayınları, 31-52.  
@@ -42,7 +41,7 @@
 
 * Wallace R.A ve Alison Wolf (2013) Çağdaş Sosyoloji Kuramları, Ankara: Doğu Batı Yay,41-105.  
 
-### ÇATIŞMA KURAMI  
+### <pre><code> ÇATIŞMA KURAMI </code></pre>  
 
 * Polama, M.M(1993) “Çatışma Yapısalcılık I: Yapının Çatışma Aracılığıyla Korunması (Lewis Coser)” Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.97-114.  
 
@@ -52,7 +51,7 @@
 
 * Wallace R.A ve Alison Wolf (2013) Çağdaş Sosyoloji Kuramları, Ankara: Doğu Batı Yay, 174-218.  
 
-### SEMBOLİK ETKİLEŞİMCİLİK  
+### <pre><code> SEMBOLİK ETKİLEŞİMCİLİK </code></pre>  
 
 * Polama, M.M (1993) “Hayat Oyununda Oynama: Kuram Olarak Dramaturji (Erving Goffman)”, Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.201-220.  
 
