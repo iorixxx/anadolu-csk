@@ -24,13 +24,13 @@ A.Callinicos (2004) Toplum Kuramı/Tarihsel Bir Bakış, İletişim Yayınları.
 
 Swingewood, A.(2010) Sosyolojik Düşüncenin Kısa Tarihi, (Çev) Osman Akınhay , İstanbul: Agora Kitaplığı  
 
-### KLASİKLER: EMILIE DURKHEIM, KARL MARX, MAX WEBER, GEORG SIMMEL  
+### <pre><code> KLASİKLER: EMILIE DURKHEIM, KARL MARX, MAX WEBER, GEORG SIMMEL</code></pre>   
 
 Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.43-188.  
 
 Cuff, E.C. ve W.W.Sharrock, D.W.Francis(2013) Sosyolojide Temel Perspektifler, Say Yayınları, s15-95.  
 
-### <pre> <code> YAPISAL İŞLEVCİLİK VE NEO İŞLEVCİLİK </code> </pre>  
+### <pre><code> YAPISAL İŞLEVCİLİK VE NEO İŞLEVCİLİK </code></pre>  
 Ritzer, G ve Jefrey Spetnisky (2012) Çağdaş Sosyoloji Kuramları ve Klasik Kökleri, (Çev) Irmak Ertuna Howison, Ankara: De Ki, s.62-79.  
 
 Poloma,M.(1993) Genel Sistem Kuramı: Davranışsal Bilimin Birleşik Kuramına Doğru Bir Yönelim (Talcott Parsons), Çağdaş Sosyoloji Kuramları.Çev.Hayriye Erbaş, Ankara:Gündoğan Yayınları, 147-174.  
