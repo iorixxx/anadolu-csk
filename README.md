@@ -222,8 +222,8 @@
 
 * Deleuze, G. Guattari, F. (1990) Kapitalizm ve Şizofreni 1,Bağlam Yayın.  
 
-Deleuze, G. Guattari, F. (1993) Kapitalizm ve Şizofreni 2,Bağlam Yayın.  
+* Deleuze, G. Guattari, F. (1993) Kapitalizm ve Şizofreni 2,Bağlam Yayın.  
 
-Colebroke, C. (2009) Giles Deleuze, Doğu Batı Yayınları  
+* Colebroke, C. (2009) Giles Deleuze, Doğu Batı Yayınları  
 
-Goodchild, P (2005) Deleuze & Guattari Arzu Politikasına Giriş, Ayrıntı  
+* Goodchild, P (2005) Deleuze & Guattari Arzu Politikasına Giriş, Ayrıntı  
