@@ -16,13 +16,13 @@
 	
 ### SOSYOLOJİ KURAMININ TARİHİ I VE II   
 
-Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.1-41.  
+* Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.1-41.  
 
-Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.189-235.  
+* Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.189-235.  
 
-A.Callinicos (2004) Toplum Kuramı/Tarihsel Bir Bakış, İletişim Yayınları.  
+* A.Callinicos (2004) Toplum Kuramı/Tarihsel Bir Bakış, İletişim Yayınları.  
 
-Swingewood, A.(2010) Sosyolojik Düşüncenin Kısa Tarihi, (Çev) Osman Akınhay , İstanbul: Agora Kitaplığı  
+* Swingewood, A.(2010) Sosyolojik Düşüncenin Kısa Tarihi, (Çev) Osman Akınhay , İstanbul: Agora Kitaplığı  
 
 ### <pre><code> KLASİKLER: EMILIE DURKHEIM, KARL MARX, MAX WEBER, GEORG SIMMEL</code></pre>   
 
