@@ -22,13 +22,13 @@ A.Callinicos (2004) Toplum Kuramı/Tarihsel Bir Bakış, İletişim Yayınları.
 Swingewood, A.(2010) Sosyolojik Düşüncenin Kısa Tarihi, (Çev) Osman Akınhay , İstanbul: Agora Kitaplığı  
 
 
-##KLASİKLER: EMILIE DURKHEIM, KARL MARX, MAX WEBER, GEORG SIMMEL  
+### KLASİKLER: EMILIE DURKHEIM, KARL MARX, MAX WEBER, GEORG SIMMEL  
 
 Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.43-188.  
 Cuff, E.C. ve W.W.Sharrock, D.W.Francis(2013) Sosyolojide Temel Perspektifler, Say Yayınları, s15-95.  
 
 
-##YAPISAL İŞLEVCİLİK VE NEO İŞLEVCİLİK  
+### YAPISAL İŞLEVCİLİK VE NEO İŞLEVCİLİK  
 Ritzer, G ve Jefrey Spetnisky (2012) Çağdaş Sosyoloji Kuramları ve Klasik Kökleri, (Çev) Irmak Ertuna Howison, Ankara: De Ki, s.62-79.  
 
 Poloma,M.(1993) Genel Sistem Kuramı: Davranışsal Bilimin Birleşik Kuramına Doğru Bir Yönelim (Talcott Parsons), Çağdaş Sosyoloji Kuramları.Çev.Hayriye Erbaş, Ankara:Gündoğan Yayınları, 147-174.  
@@ -39,7 +39,7 @@ Ritzer,G.(2013) Sosyoloji Kuramları. (Çev)  Himmet Hülür, Ankara: De Kİ Bas
 
 Wallace R.A ve Alison Wolf (2013) Çağdaş Sosyoloji Kuramları, Ankara: Doğu Batı Yay,41-105.  
 
-##ÇATIŞMA KURAMI  
+### ÇATIŞMA KURAMI  
 Polama, M.M(1993) “Çatışma Yapısalcılık I: Yapının Çatışma Aracılığıyla Korunması (Lewis Coser)” Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.97-114.  
 
 Polama,M.M(1993) “Çatışmacı Yapısalcılık: Toplumsal Yapıyı Açıklamaya Bir Öner (Ralf Dahrendorf), Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.115-129.  
@@ -50,7 +50,7 @@ Wallace R.A ve Alison Wolf (2013) Çağdaş Sosyoloji Kuramları, Ankara: Doğu 
 
 
 
-##SEMBOLİK ETKİLEŞİMCİLİK  
+### SEMBOLİK ETKİLEŞİMCİLİK  
 
 Polama, M.M (1993) “Hayat Oyununda Oynama: Kuram Olarak Dramaturji (Erving Goffman)”, Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.201-220.  
 
@@ -61,7 +61,7 @@ Wallace R.A ve Alison Wolf (2013) Çağdaş Sosyoloji Kuramları, Ankara: Doğu 
 Ritzer,G. (2013) Sosyoloji Kuramları, (Çev) Himmet Hülür, Ankara: De Kİ Basım Yayın, s.351-390.  
 
 
-##ETNOMETODOLOJİ  
+### ETNOMETODOLOJİ  
 
 Polama, M.M (1993) “Etnometodoloji: Gerçekliğin Olduğu Gibi Kabul Gören Yayınlarının Çalışılması (Harold Garfinkel)”, Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.241-260.  
 
@@ -74,9 +74,9 @@ Wallace R.A ve Alison Wolf (2013) Çağdaş Sosyoloji Kuramları, Ankara: Doğu 
 
 
 
-##YENİ MARKSÇI KURAM  
+### YENİ MARKSÇI KURAM  
 
-###Batı Avrupa Marksizmi  
+#### Batı Avrupa Marksizmi  
 
 Cuff, E.C. ve W.W Sharrock, D.W. Francis (2013) “Batı Marksizmi”, Sosyolojide Temel Perspektifler, Say Yayınları, s.197-205.  
 
@@ -89,7 +89,7 @@ Texier, J.(1982) “Gramsci, Üstyapılar Teorisyeni” Gramsci ve Sivil Toplum 
 Gramsci, A. (2007) Hapishane Defterleri, Belge Yayınları, İstanbul, Çev: Adnan Cemgil, s.9-138.  
 
 
-###Frankfurt Okulu  
+#### Frankfurt Okulu  
 
 Cuff, E.C. ve W.W Sharrock, D.W. Francis (2013) “Batı Marksizmi”, Sosyolojide Temel Perspektifler, Say Yayınları, s.205-219.  
 
@@ -101,7 +101,7 @@ Bottomore, T. (1997) Frankfurt Okulu, (Çev) Ahmet Çiğdem, Vadi Yayınları.
 
 T.W.Adorno (2007) Minima Moralia. (Çev) Orhan Koçak ve Ahmet Doğukan, İstanbul: Metis, s.15-164.  
 
-###Yapısalcı Marksizm  
+#### Yapısalcı Marksizm  
 
 Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Perspektifler. İstanbul: Say Yayınları,s.221-256.  
 
@@ -111,9 +111,9 @@ L.Althusser (1994) İdeoloji ve Devletin İdeolojik Aygıtları, (Çev) Yusuf Al
 
 L. Althusser(1990) Felsefe ve Bilim Adamlarının Kendiliğinden Felsefesi, (Çev): Ömür Sezgin, Verso.  
 
-##POSTYAPISALCILIK VE POSTMODERNİZİM   
+### POSTYAPISALCILIK VE POSTMODERNİZİM   
 
-###Post- Yapısalcılık  
+#### Post- Yapısalcılık  
 Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Perspektifler. İstanbul: Say Yayınları, s.259-282.  
 
 Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Perspektifler. İstanbul: Say Yayınları, s.308-336.  
@@ -127,7 +127,8 @@ Sarup, M. (1995) “Derrida ve Yapıbozum”, Postyapısalcılık ve Postmoderni
 Sarup, M. (1995) “Lacon ve Psikanaliz”, Postyapısalcılık ve Postmodernizm, Ark Yayınevi, s.7-37.  
 
 Boyne, R (2009) Faucault ve Derrida Aklın Öteki Yüzü. Ankara: Bilgesu Yay.  
-###Post- Modernizm  
+
+#### Post- Modernizm  
 
 Harvey, D. (1998) Postmodernliğin Durumu, Metis  
 
@@ -150,7 +151,7 @@ J.Baudrillard (2004) Kötülüğün Şeffaflığı, Ayrıntı Yayınları.
 J.Baudrillard (2012) Kusursuz Cinayet, Ayrıntı Yayınları.  
 
 
-##POSTFORDİZM VE POSTENDÜSTRYALİZM  
+### POSTFORDİZM VE POSTENDÜSTRYALİZM  
 
 Murray, R. (1995) “Fordizm ve PostFordizm” , Yeni Zamanlar. (Ed.) S. Hall ve M. Jacques, Ayrıntı Yayınları, 1995, s.46-62.  
 
@@ -159,7 +160,7 @@ Rustin, M. (1995) “Yeni Zamanlar Sorunu” Yeni Zamanlar. (Ed.) S. Hall ve M. 
 Urry, J.(1995) “Örgütlü Kapitalizmin Sonu” , Yeni Zamanlar, (Ed.) S.Hall ve Mç Jacques , Ayrıntı Yayınları, s.95-104.  
 
 
-##TEORİSİZM VE SENTEZ  
+### TEORİSİZM VE SENTEZ  
  
 Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Temel Perspektifler, Say Yayınları, s.337-347.  
 
@@ -171,7 +172,7 @@ Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) “Sentezci Habermas”, Sosyolojid
 
 
 
-##FEMİNİST KURAM  
+### FEMİNİST KURAM  
 
 Ritzer, G.(2013) Sosyoloji Kuramları, (Çev) Himmet Hülür, Ankara: De Kİ Basım Yayın, s.454-498.  
 
@@ -179,7 +180,7 @@ Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Temel Perspektifler, Sa
 
 Ramazanoplu, C. (1998) Feminizmin ve Ezilmenin Çelişkileri. (Çev.) Mefkure Bayatlı, yayına hazırlayan Fatmagül Berktay , İstanbul: Pencere Yayınları.  
 
-##QUEER KURAM  
+### QUEER KURAM  
 
 
 Yardımcı , S. Ve Güçlü. Ö.(2013) Queer Tahayyül. İstanbul: Sel Yayıncılık.  
@@ -187,7 +188,7 @@ Yardımcı , S. Ve Güçlü. Ö.(2013) Queer Tahayyül. İstanbul: Sel Yayıncı
 Özkazanç,A. (2015) Feminizmin ve Queer Kuram.İstanbul  
 
 
-##RADİKAL DEMOKRASİ  
+### RADİKAL DEMOKRASİ  
 
 Laclau, E. (2008) Hegemonya ve Sosyalist Strateji, Birikim Yayınları
 
@@ -196,7 +197,7 @@ Laclau, E. (1994) “Kurtuluşun Ötesi”, Birikim, No.66, Ekim 1994
 Laclau, E. (1995) “Politika ve Modernitenin Sınırları”, Postmodernist Burjuva Liberalizmi , Sarmal Yayınevi, 1995,s.81-104.
 
 
-##POSTKOLONYALİZM
+### POSTKOLONYALİZM
 
 Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Perspektifler. İstanbul: Say Yayınları, s.433-439.
 
@@ -208,18 +209,16 @@ Yeğenoğlu, M. (1995) “Sömürge Sonrası Dünya’da Göçmen Kimliği”, M
 
 
 
-Diğer Kaynaklar Ek Kaynaklar..
+##### Diğer Kaynaklar Ek Kaynaklar
 
-S.Zizek
-Zizek, S.(2002). Kırılgan Temas, Metis.
-Zizek, S.(2002).İdeolojinin Yüce Nesnesi, Metis.Zizek,
-S.(2010). Yamuk Bakmak, Metis.
-
-G.Deleuze & F G. Guattari
-G.Deleuze, F.Guattari Bogue,R.(2013) Deleuze ve Guattari, İstanbul: Otonom.
-Holland, E.(2013) Deleuze ve Guattari’nin Anti-Oedipus’u . İstanbul : Otonom.
-Deleuze, G. Guattari, F. (1992) Felsefe Nedir? YKY
-Deleuze, G. Guattari, F. (1990) Kapitalizm ve Şizofreni 1,Bağlam Yayın.
-Deleuze, G. Guattari, F. (1993) Kapitalizm ve Şizofreni 2,Bağlam Yayın.
-Colebroke, C. (2009) Giles Deleuze, Doğu Batı Yayınları
-Goodchild, P (2005) Deleuze & Guattari Arzu Politikasına Giriş, Ayrıntı
+S.Zizek  
+Zizek, S.(2002). Kırılgan Temas, Metis.  
+Zizek, S.(2002).İdeolojinin Yüce Nesnesi, Metis.Zizek,S.(2010). Yamuk Bakmak, Metis.  
+G.Deleuze & F G. Guattari  
+G.Deleuze, F.Guattari Bogue,R.(2013) Deleuze ve Guattari, İstanbul: Otonom.  
+Holland, E.(2013) Deleuze ve Guattari’nin Anti-Oedipus’u . İstanbul : Otonom.  
+Deleuze, G. Guattari, F. (1992) Felsefe Nedir? YKY  
+Deleuze, G. Guattari, F. (1990) Kapitalizm ve Şizofreni 1,Bağlam Yayın.  
+Deleuze, G. Guattari, F. (1993) Kapitalizm ve Şizofreni 2,Bağlam Yayın.  
+Colebroke, C. (2009) Giles Deleuze, Doğu Batı Yayınları  
+Goodchild, P (2005) Deleuze & Guattari Arzu Politikasına Giriş, Ayrıntı  
