@@ -1,5 +1,5 @@
 
-                                                 **Anadolu Üniversitesi**
+**                                                 Anadolu Üniversitesi**
 ===========
 [Sosyoloji Anabilim Dalı Yüksek Lisans Programı](https://www.anadolu.edu.tr/akademik/enstituler/1171/sosyoloji-abd-tezli-yl/program-profili)  
 -----------------
