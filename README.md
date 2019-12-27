@@ -17,18 +17,24 @@
 ### SOSYOLOJİ KURAMININ TARİHİ I VE II   
 
 Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.1-41.  
+
 Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.189-235.  
+
 A.Callinicos (2004) Toplum Kuramı/Tarihsel Bir Bakış, İletişim Yayınları.  
+
 Swingewood, A.(2010) Sosyolojik Düşüncenin Kısa Tarihi, (Çev) Osman Akınhay , İstanbul: Agora Kitaplığı  
 
 ### KLASİKLER: EMILIE DURKHEIM, KARL MARX, MAX WEBER, GEORG SIMMEL  
 
 Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.43-188.  
+
 Cuff, E.C. ve W.W.Sharrock, D.W.Francis(2013) Sosyolojide Temel Perspektifler, Say Yayınları, s15-95.  
 
 ### YAPISAL İŞLEVCİLİK VE NEO İŞLEVCİLİK  
 Ritzer, G ve Jefrey Spetnisky (2012) Çağdaş Sosyoloji Kuramları ve Klasik Kökleri, (Çev) Irmak Ertuna Howison, Ankara: De Ki, s.62-79.  
+
 Poloma,M.(1993) Genel Sistem Kuramı: Davranışsal Bilimin Birleşik Kuramına Doğru Bir Yönelim (Talcott Parsons), Çağdaş Sosyoloji Kuramları.Çev.Hayriye Erbaş, Ankara:Gündoğan Yayınları, 147-174.  
+
 Poloma,M. (1993) Bir Kuram Olarak Yapısal İşlevcilik: Bir Dönemin Sonu? (Robert K. Merton), Çağdaş Sosyoloji Kuramları. Çev. Hayriye Erbaş, Ankara: Gündoğan Yayınları, 31-52.  
 
 Ritzer,G.(2013) Sosyoloji Kuramları. (Çev)  Himmet Hülür, Ankara: De Kİ Basım Yayın,s.236-265.  
@@ -104,6 +110,7 @@ L. Althusser(1990) Felsefe ve Bilim Adamlarının Kendiliğinden Felsefesi, (Çe
 ### POSTYAPISALCILIK VE POSTMODERNİZİM   
 
 #### Post- Yapısalcılık  
+
 Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Perspektifler. İstanbul: Say Yayınları, s.259-282.  
 
 Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Perspektifler. İstanbul: Say Yayınları, s.308-336.  
@@ -140,6 +147,7 @@ J.Baudrillard (2004) Kötülüğün Şeffaflığı, Ayrıntı Yayınları.
 
 J.Baudrillard (2012) Kusursuz Cinayet, Ayrıntı Yayınları.  
 
+
 ### POSTFORDİZM VE POSTENDÜSTRYALİZM  
 
 Murray, R. (1995) “Fordizm ve PostFordizm” , Yeni Zamanlar. (Ed.) S. Hall ve M. Jacques, Ayrıntı Yayınları, 1995, s.46-62.  
@@ -168,6 +176,7 @@ Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Temel Perspektifler, Sa
 
 Ramazanoplu, C. (1998) Feminizmin ve Ezilmenin Çelişkileri. (Çev.) Mefkure Bayatlı, yayına hazırlayan Fatmagül Berktay , İstanbul: Pencere Yayınları.  
 
+
 ### QUEER KURAM  
 
 Yardımcı , S. Ve Güçlü. Ö.(2013) Queer Tahayyül. İstanbul: Sel Yayıncılık.  
@@ -182,6 +191,7 @@ Laclau, E. (1994) “Kurtuluşun Ötesi”, Birikim, No.66, Ekim 1994
 
 Laclau, E. (1995) “Politika ve Modernitenin Sınırları”, Postmodernist Burjuva Liberalizmi , Sarmal Yayınevi, 1995,s.81-104.
 
+
 ### POSTKOLONYALİZM
 
 Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Perspektifler. İstanbul: Say Yayınları, s.433-439.
@@ -192,16 +202,27 @@ Loomba, A.(2000) Kolonyalizm Postkolonyalizm. Ayrıntı, s.9-127,273-286
 
 Yeğenoğlu, M. (1995) “Sömürge Sonrası Dünya’da Göçmen Kimliği”, Mürekkep, No:34,1995,s.71-80.
 
+
 ##### Diğer Kaynaklar Ek Kaynaklar
 
 S.Zizek  
+
 Zizek, S.(2002). Kırılgan Temas, Metis.  
+
 Zizek, S.(2002).İdeolojinin Yüce Nesnesi, Metis.Zizek,S.(2010). Yamuk Bakmak, Metis.  
+
 G.Deleuze & F G. Guattari  
+
 G.Deleuze, F.Guattari Bogue,R.(2013) Deleuze ve Guattari, İstanbul: Otonom.  
+
 Holland, E.(2013) Deleuze ve Guattari’nin Anti-Oedipus’u . İstanbul : Otonom.  
+
 Deleuze, G. Guattari, F. (1992) Felsefe Nedir? YKY  
+
 Deleuze, G. Guattari, F. (1990) Kapitalizm ve Şizofreni 1,Bağlam Yayın.  
+
 Deleuze, G. Guattari, F. (1993) Kapitalizm ve Şizofreni 2,Bağlam Yayın.  
+
 Colebroke, C. (2009) Giles Deleuze, Doğu Batı Yayınları  
+
 Goodchild, P (2005) Deleuze & Guattari Arzu Politikasına Giriş, Ayrıntı  
