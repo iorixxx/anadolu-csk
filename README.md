@@ -21,18 +21,14 @@ Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Ya
 A.Callinicos (2004) Toplum Kuramı/Tarihsel Bir Bakış, İletişim Yayınları.  
 Swingewood, A.(2010) Sosyolojik Düşüncenin Kısa Tarihi, (Çev) Osman Akınhay , İstanbul: Agora Kitaplığı  
 
-
 ### KLASİKLER: EMILIE DURKHEIM, KARL MARX, MAX WEBER, GEORG SIMMEL  
 
 Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.43-188.  
 Cuff, E.C. ve W.W.Sharrock, D.W.Francis(2013) Sosyolojide Temel Perspektifler, Say Yayınları, s15-95.  
 
-
 ### YAPISAL İŞLEVCİLİK VE NEO İŞLEVCİLİK  
 Ritzer, G ve Jefrey Spetnisky (2012) Çağdaş Sosyoloji Kuramları ve Klasik Kökleri, (Çev) Irmak Ertuna Howison, Ankara: De Ki, s.62-79.  
-
 Poloma,M.(1993) Genel Sistem Kuramı: Davranışsal Bilimin Birleşik Kuramına Doğru Bir Yönelim (Talcott Parsons), Çağdaş Sosyoloji Kuramları.Çev.Hayriye Erbaş, Ankara:Gündoğan Yayınları, 147-174.  
-
 Poloma,M. (1993) Bir Kuram Olarak Yapısal İşlevcilik: Bir Dönemin Sonu? (Robert K. Merton), Çağdaş Sosyoloji Kuramları. Çev. Hayriye Erbaş, Ankara: Gündoğan Yayınları, 31-52.  
 
 Ritzer,G.(2013) Sosyoloji Kuramları. (Çev)  Himmet Hülür, Ankara: De Kİ Basım Yayın,s.236-265.  
@@ -48,8 +44,6 @@ Ritzer,G. (2013) Sosyoloji Kuramları, (Çev) Himmet Hülür, Ankara: De Kİ Bas
 
 Wallace R.A ve Alison Wolf (2013) Çağdaş Sosyoloji Kuramları, Ankara: Doğu Batı Yay, 174-218.  
 
-
-
 ### SEMBOLİK ETKİLEŞİMCİLİK  
 
 Polama, M.M (1993) “Hayat Oyununda Oynama: Kuram Olarak Dramaturji (Erving Goffman)”, Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.201-220.  
@@ -60,7 +54,6 @@ Wallace R.A ve Alison Wolf (2013) Çağdaş Sosyoloji Kuramları, Ankara: Doğu 
 
 Ritzer,G. (2013) Sosyoloji Kuramları, (Çev) Himmet Hülür, Ankara: De Kİ Basım Yayın, s.351-390.  
 
-
 ### ETNOMETODOLOJİ  
 
 Polama, M.M (1993) “Etnometodoloji: Gerçekliğin Olduğu Gibi Kabul Gören Yayınlarının Çalışılması (Harold Garfinkel)”, Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.241-260.  
@@ -70,9 +63,6 @@ Polama, M.M (1993) “Gerçekliğin Toplumsal Yapımı: Yapısalcılık ve Etkil
 Ritzer, G.(2013) Sosyoloji Kuramları, (Çev) Himmet Hülür, Ankara: De Kİ Basım Yayın, s.391-415.  
 
 Wallace R.A ve Alison Wolf (2013) Çağdaş Sosyoloji Kuramları, Ankara: Doğu Batı Yay, 349-401.  
-
-
-
 
 ### YENİ MARKSÇI KURAM  
 
@@ -87,7 +77,6 @@ Bobbio, N.(1982) Gramsci ve Sivil Toplum Kavramı”, Gramsci ve Sivil Toplum (E
 Texier, J.(1982) “Gramsci, Üstyapılar Teorisyeni” Gramsci ve Sivil Toplum (Ed) N.Nonnio ve J. Texier, Savaş Yayınları, s.45-90.  
 
 Gramsci, A. (2007) Hapishane Defterleri, Belge Yayınları, İstanbul, Çev: Adnan Cemgil, s.9-138.  
-
 
 #### Frankfurt Okulu  
 
@@ -111,6 +100,7 @@ L.Althusser (1994) İdeoloji ve Devletin İdeolojik Aygıtları, (Çev) Yusuf Al
 
 L. Althusser(1990) Felsefe ve Bilim Adamlarının Kendiliğinden Felsefesi, (Çev): Ömür Sezgin, Verso.  
 
+
 ### POSTYAPISALCILIK VE POSTMODERNİZİM   
 
 #### Post- Yapısalcılık  
@@ -128,6 +118,7 @@ Sarup, M. (1995) “Lacon ve Psikanaliz”, Postyapısalcılık ve Postmodernizm
 
 Boyne, R (2009) Faucault ve Derrida Aklın Öteki Yüzü. Ankara: Bilgesu Yay.  
 
+
 #### Post- Modernizm  
 
 Harvey, D. (1998) Postmodernliğin Durumu, Metis  
@@ -135,21 +126,19 @@ Harvey, D. (1998) Postmodernliğin Durumu, Metis
 Sarup,M. (1995) “Lyotard ve Post-Modernizm”, Post- Yapısalcılık ve Postmodernizm, Ark Yayınevi, s.155-190.  
 
 Jameson, F. (1990) “Postmodernism Ya Da Geç Kapitalizmin Kültürel Mantığı, Postmodernizm, (Ed.) N.Zeka. Kıyı Yayınları, 1990, s.59-116.  
-
 Boyne, R., A. Rattansi, (1993) “Postmodernizmde Kuram ve Siyaset”, Birikim, No.56. Aralık, 1993  
 
 J.F.Lyotard ve Larrain, J. (1995). İdeoloji ve Kültürel Kimlik, (Çev) Neşe Nur Domaniç, İstanbul: Sarmal Yayınevi, s. 127-165.  
 
 Lyotard, F.(1990) “Postmodern nedir sorusuna cevap” Ya Da Geç Kapitalizmin Kültürel Mantığı, Postmodernizm, (Ed.) N. Zeka, Kıyı Yayınları, 1990,s.45-58.  
 
-Jameson, F. (1990) “Postmodernizm ya da Geç Kapitalizmin Kültürel Mantığı, Postmodernizm, (Ed.) N. Zeka, Kıyı Yayınları,1990, s. 59-116.  
+Jameson, F. (1990) “Postmodernizm ya da Geç Kapitalizmin Kültürel Mantığı, Postmodernizm, (Ed.) N. Zeka, Kıyı Yayınları,1990, s. 59-116. 
 
- Lyotard, F.(2000) Postmodern Durum, Vadi Yayınları.  
+Lyotard, F.(2000) Postmodern Durum, Vadi Yayınları.  
 
 J.Baudrillard (2004) Kötülüğün Şeffaflığı, Ayrıntı Yayınları.  
 
 J.Baudrillard (2012) Kusursuz Cinayet, Ayrıntı Yayınları.  
-
 
 ### POSTFORDİZM VE POSTENDÜSTRYALİZM  
 
@@ -171,7 +160,6 @@ Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) “Bourdieu:Nesnellik ve Öznelliğ
 Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) “Sentezci Habermas”, Sosyolojide Temel Perspektifler, Say Yayınları,s.367-382.  
 
 
-
 ### FEMİNİST KURAM  
 
 Ritzer, G.(2013) Sosyoloji Kuramları, (Çev) Himmet Hülür, Ankara: De Kİ Basım Yayın, s.454-498.  
@@ -182,11 +170,9 @@ Ramazanoplu, C. (1998) Feminizmin ve Ezilmenin Çelişkileri. (Çev.) Mefkure Ba
 
 ### QUEER KURAM  
 
-
 Yardımcı , S. Ve Güçlü. Ö.(2013) Queer Tahayyül. İstanbul: Sel Yayıncılık.  
 
 Özkazanç,A. (2015) Feminizmin ve Queer Kuram.İstanbul  
-
 
 ### RADİKAL DEMOKRASİ  
 
@@ -195,7 +181,6 @@ Laclau, E. (2008) Hegemonya ve Sosyalist Strateji, Birikim Yayınları
 Laclau, E. (1994) “Kurtuluşun Ötesi”, Birikim, No.66, Ekim 1994
 
 Laclau, E. (1995) “Politika ve Modernitenin Sınırları”, Postmodernist Burjuva Liberalizmi , Sarmal Yayınevi, 1995,s.81-104.
-
 
 ### POSTKOLONYALİZM
 
@@ -206,8 +191,6 @@ During, S. (1995) “Günümüzde Postmodernizm ya da PostKolonyalizm”, Post M
 Loomba, A.(2000) Kolonyalizm Postkolonyalizm. Ayrıntı, s.9-127,273-286
 
 Yeğenoğlu, M. (1995) “Sömürge Sonrası Dünya’da Göçmen Kimliği”, Mürekkep, No:34,1995,s.71-80.
-
-
 
 ##### Diğer Kaynaklar Ek Kaynaklar
 
