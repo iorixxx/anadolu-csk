@@ -61,7 +61,7 @@
 
 * Ritzer,G. (2013) Sosyoloji Kuramları, (Çev) Himmet Hülür, Ankara: De Kİ Basım Yayın, s.351-390.  
 
-### ETNOMETODOLOJİ  
+### <pre><code> ETNOMETODOLOJİ </code></pre>  
 
 * Polama, M.M (1993) “Etnometodoloji: Gerçekliğin Olduğu Gibi Kabul Gören Yayınlarının Çalışılması (Harold Garfinkel)”, Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.241-260.  
 
@@ -71,7 +71,7 @@
 
 * Wallace R.A ve Alison Wolf (2013) Çağdaş Sosyoloji Kuramları, Ankara: Doğu Batı Yay, 349-401.  
 
-### YENİ MARKSÇI KURAM  
+### <pre><code> YENİ MARKSÇI KURAM </code></pre>  
 
 #### Batı Avrupa Marksizmi  
 
@@ -108,7 +108,7 @@
 * L. Althusser(1990) Felsefe ve Bilim Adamlarının Kendiliğinden Felsefesi, (Çev): Ömür Sezgin, Verso.  
 
 
-### POSTYAPISALCILIK VE POSTMODERNİZİM   
+### <pre><code> POSTYAPISALCILIK VE POSTMODERNİZİM </code></pre>  
 
 #### Post- Yapısalcılık  
 
@@ -149,7 +149,7 @@
 * J.Baudrillard (2012) Kusursuz Cinayet, Ayrıntı Yayınları.  
 
 
-### POSTFORDİZM VE POSTENDÜSTRYALİZM  
+### <pre><code> POSTFORDİZM VE POSTENDÜSTRYALİZM </code></pre>  
 
 * Murray, R. (1995) “Fordizm ve PostFordizm” , Yeni Zamanlar. (Ed.) S. Hall ve M. Jacques, Ayrıntı Yayınları, 1995, s.46-62.  
 
@@ -158,7 +158,7 @@
 * Urry, J.(1995) “Örgütlü Kapitalizmin Sonu” , Yeni Zamanlar, (Ed.) S.Hall ve Mç Jacques , Ayrıntı Yayınları, s.95-104.  
 
 
-### TEORİSİZM VE SENTEZ  
+### <pre><code> TEORİSİZM VE SENTEZ </code></pre> 
  
 * Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Temel Perspektifler, Say Yayınları, s.337-347.  
 
@@ -169,7 +169,7 @@
 * Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) “Sentezci Habermas”, Sosyolojide Temel Perspektifler, Say Yayınları,s.367-382.  
 
 
-### FEMİNİST KURAM  
+### <pre><code> FEMİNİST KURAM </code></pre>  
 
 * Ritzer, G.(2013) Sosyoloji Kuramları, (Çev) Himmet Hülür, Ankara: De Kİ Basım Yayın, s.454-498.  
 
@@ -178,13 +178,13 @@
 * Ramazanoplu, C. (1998) Feminizmin ve Ezilmenin Çelişkileri. (Çev.) Mefkure Bayatlı, yayına hazırlayan Fatmagül Berktay , İstanbul: Pencere Yayınları.  
 
 
-### QUEER KURAM  
+### <pre><code> QUEER KURAM </code></pre>  
 
 * Yardımcı , S. Ve Güçlü. Ö.(2013) Queer Tahayyül. İstanbul: Sel Yayıncılık.  
 
 * Özkazanç,A. (2015) Feminizmin ve Queer Kuram.İstanbul  
 
-### RADİKAL DEMOKRASİ  
+### <pre><code> RADİKAL DEMOKRASİ </code></pre>  
 
 * Laclau, E. (2008) Hegemonya ve Sosyalist Strateji, Birikim Yayınları
 
@@ -193,7 +193,7 @@
 * Laclau, E. (1995) “Politika ve Modernitenin Sınırları”, Postmodernist Burjuva Liberalizmi , Sarmal Yayınevi, 1995,s.81-104.
 
 
-### POSTKOLONYALİZM
+### <pre><code> POSTKOLONYALİZM </code></pre>
 
 * Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Perspektifler. İstanbul: Say Yayınları, s.433-439.
 
