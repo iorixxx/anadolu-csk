@@ -9,16 +9,16 @@
 **Ders Günü:** Salı  
 **Ders Saati:** 14.00 - 17.00  
 **Derslik:** Seminer Odası  
-**Dersi Yürüten:**  [Doç.Dr. Fatime GÜNEŞ](https://akademik.anadolu.edu.tr/fgunes)  
+**Dersi Yürüten:**  [Doç. Dr. Fatime GÜNEŞ](https://akademik.anadolu.edu.tr/fgunes)  
 **Dahili Telefon:** 40 68  
 **E-mail:** fgunes@anadolu.edu.tr  
 	
 	
 ### <pre><code> SOSYOLOJİ KURAMININ TARİHİ I VE II </code></pre>   
 
-* Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.1-41.  
+* Ritzer, G. (2013) Sosyoloji Kuramları, (Çev)Himmet Hülür, Ankara: De Kİ Basım Yayın, s.1-41.  
 
-* Ritzer,G.(2013)Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.189-235.  
+* Ritzer, G. (2013) Sosyoloji Kuramları,(Çev)Himmet Hülür,Ankara:De Kİ Basım Yayın,s.189-235.  
 
 * A.Callinicos (2004) Toplum Kuramı/Tarihsel Bir Bakış, İletişim Yayınları.  
 
