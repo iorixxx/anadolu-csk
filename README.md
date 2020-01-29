@@ -5,8 +5,8 @@
 -----------------
 
 **Ders:** SOS 507 Sosyolojide Çağdaş Kurumsal Gelişmeler I & II  
-**Dönem:** Güz ve Bahar Dönemi 2018-2019  
-**Ders Günü:** Salı  
+**Dönem:** Güz ve Bahar Dönemi 2019-2020  
+**Ders Günü:** Çarşamba  
 **Ders Saati:** 14.00 - 17.00  
 **Derslik:** Seminer Odası  
 **Dersi Yürüten:**  [Doç. Dr. Fatime GÜNEŞ](https://akademik.anadolu.edu.tr/fgunes)  
@@ -43,9 +43,9 @@
 
 ### <pre><code> ÇATIŞMA KURAMI </code></pre>  
 
-* Polama, M.M (1993) ``Çatışma Yapısalcılık I: Yapının Çatışma Aracılığıyla Korunması (Lewis Coser)'' Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.97-114.  
+* Polama, M.M (1993) "Çatışma Yapısalcılık I: Yapının Çatışma Aracılığıyla Korunması (Lewis Coser)" Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.97-114.  
 
-* Polama, M.M (1993) ``Çatışmacı Yapısalcılık: Toplumsal Yapıyı Açıklamaya Bir Öner (Ralf Dahrendorf), Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.115-129.  
+* Polama, M.M (1993) "Çatışmacı Yapısalcılık: Toplumsal Yapıyı Açıklamaya Bir Öner (Ralf Dahrendorf), Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.115-129.  
 
 * Ritzer, G. (2013) Sosyoloji Kuramları, (Çev) Himmet Hülür, Ankara: De Kİ Basım Yayın, s.266-276.  
 
@@ -53,9 +53,9 @@
 
 ### <pre><code> SEMBOLİK ETKİLEŞİMCİLİK </code></pre>  
 
-* Polama, M.M (1993) ``Hayat Oyununda Oynama: Kuram Olarak Dramaturji (Erving Goffman)'', Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.201-220.  
+* Polama, M.M (1993) "Hayat Oyununda Oynama: Kuram Olarak Dramaturji (Erving Goffman)", Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.201-220.  
 
-* Polama, M.M (1993) ``Sembolik Etkileşimci Perspektif: İnsan ve Anlam (Herbert Blumer)'', Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s. 221-241.  
+* Polama, M.M (1993) "Sembolik Etkileşimci Perspektif: İnsan ve Anlam (Herbert Blumer)", Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s. 221-241.  
 
 * Wallace R.A ve Alison Wolf (2013) Çağdaş Sosyoloji Kuramları, Ankara: Doğu Batı Yay, 267-347.  
 
@@ -63,9 +63,9 @@
 
 ### <pre><code> ETNOMETODOLOJİ </code></pre>  
 
-* Polama, M.M (1993) ``Etnometodoloji: Gerçekliğin Olduğu Gibi Kabul Gören Yayınlarının Çalışılması (Harold Garfinkel)'', Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s. 241-260.  
+* Polama, M.M (1993) "Etnometodoloji: Gerçekliğin Olduğu Gibi Kabul Gören Yayınlarının Çalışılması (Harold Garfinkel)", Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s. 241-260.  
 
-* Polama, M.M (1993) ``Gerçekliğin Toplumsal Yapımı: Yapısalcılık ve Etkileşimciliğin Bir Sentezi (Peter Burger)'', Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.261-278.  
+* Polama, M.M (1993) "Gerçekliğin Toplumsal Yapımı: Yapısalcılık ve Etkileşimciliğin Bir Sentezi (Peter Burger)", Çağdaş Sosyoloji Kuramları, (Çer) Hayriye Erbaş, Ankara: Gündoğan Yayınları, s.261-278.  
 
 * Ritzer, G. (2013) Sosyoloji Kuramları, (Çev) Himmet Hülür, Ankara: De Kİ Basım Yayın, s.391-415.  
 
@@ -75,19 +75,19 @@
 
 #### Batı Avrupa Marksizmi  
 
-* Cuff, E.C. ve W.W Sharrock, D.W. Francis (2013) ``Batı Marksizmi'', Sosyolojide Temel Perspektifler, Say Yayınları, s.197-205.  
+* Cuff, E.C. ve W.W Sharrock, D.W. Francis (2013) "Batı Marksizmi", Sosyolojide Temel Perspektifler, Say Yayınları, s.197-205.  
 
 * Anderson, P. (2004) Batı Marksizmi Üzerine Düşünceler, (Çev) Bülent Aksoy, Ankara: Birikim Yayınları.  
 
-* Bobbio, N. (1982) ``Gramsci ve Sivil Toplum Kavramı'', Gramsci ve Sivil Toplum (Ed) N.Nonnio ve J. Texier, Savaş Yayınları, s.3-42.  
+* Bobbio, N. (1982) "Gramsci ve Sivil Toplum Kavramı", Gramsci ve Sivil Toplum (Ed) N.Nonnio ve J. Texier, Savaş Yayınları, s.3-42.  
 
-* Texier, J. (1982) ``Gramsci, Üstyapılar Teorisyeni'' Gramsci ve Sivil Toplum (Ed) N.Nonnio ve J. Texier, Savaş Yayınları, s.45-90.  
+* Texier, J. (1982) "Gramsci, Üstyapılar Teorisyeni" Gramsci ve Sivil Toplum (Ed) N.Nonnio ve J. Texier, Savaş Yayınları, s.45-90.  
 
 * Gramsci, A. (2007) Hapishane Defterleri, Belge Yayınları, İstanbul, Çev: Adnan Cemgil, s.9-138.  
 
 #### Frankfurt Okulu  
 
-* Cuff, E.C. ve W.W Sharrock, D.W. Francis (2013) ``Batı Marksizmi'', Sosyolojide Temel Perspektifler, Say Yayınları, s.205-219.  
+* Cuff, E.C. ve W.W Sharrock, D.W. Francis (2013) "Batı Marksizmi", Sosyolojide Temel Perspektifler, Say Yayınları, s.205-219.  
 
 * Ritzer, G. (2013) Sosyoloji Kuramları, (Çev) Himmet Hülür, Ankara: De Kİ Basım Yayın, s.282-29.  
 
@@ -120,9 +120,9 @@
 
 * Foucolt, M. (2010) Yapısalcılık Postyapısalcılık, Birey Yayıncılık  
 
-* Sarup, M. (1995) ``Derrida ve Yapıbozum'', Postyapısalcılık ve Postmodernizm, M.Sarup, Ark Yayınevi, s.39-71.  
+* Sarup, M. (1995) "Derrida ve Yapıbozum", Postyapısalcılık ve Postmodernizm, M.Sarup, Ark Yayınevi, s.39-71.  
 
-* Sarup, M. (1995) ``Lacon ve Psikanaliz'', Postyapısalcılık ve Postmodernizm, Ark Yayınevi, s.7-37.  
+* Sarup, M. (1995) "Lacon ve Psikanaliz", Postyapısalcılık ve Postmodernizm, Ark Yayınevi, s.7-37.  
 
 * Boyne, R. (2009) Faucault ve Derrida Aklın Öteki Yüzü. Ankara: Bilgesu Yay.  
 
@@ -131,16 +131,16 @@
 
 * Harvey, D. (1998) Postmodernliğin Durumu, Metis  
 
-* Sarup, M. (1995) ``Lyotard ve Post-Modernizm'', Post- Yapısalcılık ve Postmodernizm, Ark Yayınevi, s.155-190.  
+* Sarup, M. (1995) "Lyotard ve Post-Modernizm", Post- Yapısalcılık ve Postmodernizm, Ark Yayınevi, s.155-190.  
 
-* Jameson, F. (1990) ``Postmodernism Ya Da Geç Kapitalizmin Kültürel Mantığı, Postmodernizm, (Ed.) N.Zeka. Kıyı Yayınları, 1990, s.59-116.  
-* Boyne, R., A. Rattansi, (1993) ``Postmodernizmde Kuram ve Siyaset'', Birikim, No.56. Aralık, 1993  
+* Jameson, F. (1990) "Postmodernism Ya Da Geç Kapitalizmin Kültürel Mantığı, Postmodernizm, (Ed.) N.Zeka. Kıyı Yayınları, 1990, s.59-116.  
+* Boyne, R., A. Rattansi, (1993) "Postmodernizmde Kuram ve Siyaset", Birikim, No.56. Aralık, 1993  
 
 * J.F.Lyotard ve Larrain, J. (1995) İdeoloji ve Kültürel Kimlik, (Çev) Neşe Nur Domaniç, İstanbul: Sarmal Yayınevi, s. 127-165.  
 
-* Lyotard, F. (1990) ``Postmodern nedir sorusuna cevap'' Ya Da Geç Kapitalizmin Kültürel Mantığı, Postmodernizm, (Ed.) N. Zeka, Kıyı Yayınları, 1990, s.45-58.  
+* Lyotard, F. (1990) "Postmodern nedir sorusuna cevap" Ya Da Geç Kapitalizmin Kültürel Mantığı, Postmodernizm, (Ed.) N. Zeka, Kıyı Yayınları, 1990, s.45-58.  
 
-* Jameson, F. (1990) ``Postmodernizm ya da Geç Kapitalizmin Kültürel Mantığı, Postmodernizm, (Ed.) N. Zeka, Kıyı Yayınları, 1990, s. 59-116. 
+* Jameson, F. (1990) "Postmodernizm ya da Geç Kapitalizmin Kültürel Mantığı, Postmodernizm, (Ed.) N. Zeka, Kıyı Yayınları, 1990, s. 59-116. 
 
 * Lyotard, F. (2000) Postmodern Durum, Vadi Yayınları.  
 
@@ -151,22 +151,22 @@
 
 ### <pre><code> POSTFORDİZM VE POSTENDÜSTRİYALİZM </code></pre>  
 
-* Murray, R. (1995) ''Fordizm ve PostFordizm'', Yeni Zamanlar. (Ed.) S. Hall ve M. Jacques, Ayrıntı Yayınları, 1995, s.46-62.  
+* Murray, R. (1995) "Fordizm ve PostFordizm", Yeni Zamanlar. (Ed.) S. Hall ve M. Jacques, Ayrıntı Yayınları, 1995, s.46-62.  
 
-* Rustin, M. (1995) ``Yeni Zamanlar Sorunu'' Yeni Zamanlar. (Ed.) S. Hall ve M. Jacques, Ayrıntı Yayınları, s.225-244.  
+* Rustin, M. (1995) "Yeni Zamanlar Sorunu" Yeni Zamanlar. (Ed.) S. Hall ve M. Jacques, Ayrıntı Yayınları, s.225-244.  
 
-* Urry, J. (1995) ``Örgütlü Kapitalizmin Sonu'', Yeni Zamanlar, (Ed.) S.Hall ve Mç Jacques, Ayrıntı Yayınları, s.95-104.  
+* Urry, J. (1995) "Örgütlü Kapitalizmin Sonu", Yeni Zamanlar, (Ed.) S.Hall ve Mç Jacques, Ayrıntı Yayınları, s.95-104.  
 
 
 ### <pre><code> TEORİSİZM VE SENTEZ </code></pre> 
  
 * Cuff, E.C, Sharrock, W.W.Francis, D.W. (2013) Sosyolojide Temel Perspektifler, Say Yayınları, s.337-347.  
 
-* Cuff, E.C, Sharrock, W.W.Francis, D.W. (2013) ``Giddens: Yapılaşma Teorisi'', Sosyolojide Temel Perspektifler, Say Yayınları,s.347-356.  
+* Cuff, E.C, Sharrock, W.W.Francis, D.W. (2013) "Giddens: Yapılaşma Teorisi", Sosyolojide Temel Perspektifler, Say Yayınları,s.347-356.  
 
-* Cuff, E.C, Sharrock, W.W.Francis, D.W. (2013) ``Bourdieu:Nesnellik ve Öznelliği Uzlaştırmak'', Sosyolojide Temel Perspektifler, Say Yayınları, s.357-367.  
+* Cuff, E.C, Sharrock, W.W.Francis, D.W. (2013) "Bourdieu:Nesnellik ve Öznelliği Uzlaştırmak", Sosyolojide Temel Perspektifler, Say Yayınları, s.357-367.  
 
-* Cuff, E.C, Sharrock, W.W.Francis, D.W. (2013) ``Sentezci Habermas'', Sosyolojide Temel Perspektifler, Say Yayınları, s.367-382.  
+* Cuff, E.C, Sharrock, W.W.Francis, D.W. (2013) "Sentezci Habermas", Sosyolojide Temel Perspektifler, Say Yayınları, s.367-382.  
 
 
 ### <pre><code> FEMİNİST KURAM </code></pre>  
@@ -188,20 +188,20 @@
 
 * Laclau, E.(2008) Hegemonya ve Sosyalist Strateji, Birikim Yayınları
 
-* Laclau, E.(1994) ``Kurtuluşun Ötesi'', Birikim, No.66, Ekim 1994
+* Laclau, E.(1994) "Kurtuluşun Ötesi", Birikim, No.66, Ekim 1994
 
-* Laclau, E.(1995) ``Politika ve Modernitenin Sınırları'', Postmodernist Burjuva Liberalizmi, Sarmal Yayınevi, 1995, s.81-104.
+* Laclau, E.(1995) "Politika ve Modernitenin Sınırları", Postmodernist Burjuva Liberalizmi, Sarmal Yayınevi, 1995, s.81-104.
 
 
 ### <pre><code> POSTKOLONYALİZM </code></pre>
 
 * Cuff, E.C, Sharrock, W.W.Francis, D.W.(2013) Sosyolojide Perspektifler. İstanbul: Say Yayınları, s.433-439.
 
-* During, S. (1995) ``Günümüzde Postmodernizm ya da PostKolonyalizm'', Post Modernist Burjuva Liberalizmi, Sarmal Yayınevi, s.105-128
+* During, S. (1995) "Günümüzde Postmodernizm ya da PostKolonyalizm", Post Modernist Burjuva Liberalizmi, Sarmal Yayınevi, s.105-128
 
 * Loomba, A. (2000) Kolonyalizm Postkolonyalizm. Ayrıntı, s.9-127, 273-286
 
-* Yeğenoğlu, M. (1995) ``Sömürge Sonrası Dünya’da Göçmen Kimliği'', Mürekkep, No:34, 1995, s.71-80.
+* Yeğenoğlu, M. (1995) "Sömürge Sonrası Dünya’da Göçmen Kimliği", Mürekkep, No:34, 1995, s.71-80.
 
 
 #### Diğer Kaynaklar Ek Kaynaklar
