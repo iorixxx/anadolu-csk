@@ -4,7 +4,7 @@
 [Sosyoloji Anabilim Dalı Yüksek Lisans Programı](https://www.anadolu.edu.tr/akademik/enstituler/1171/sosyoloji-abd-tezli-yl/program-profili)  
 -----------------
 
-**Ders:** SOS 507 Sosyolojide Çağdaş Kurumsal Gelişmeler I & II  
+**Ders:** SOS507 & SOS508 Sosyolojide Çağdaş Kurumsal Gelişmeler I & II  
 **Dönem:** Güz ve Bahar Dönemi 2019-2020  
 **Ders Günü:** Çarşamba  
 **Ders Saati:** 14.00 - 17.00  
